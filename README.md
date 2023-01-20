@@ -20,7 +20,7 @@ On keeping these key points in mind, our project Hooptie-robo focuses on:
 1. Research and presentation on pros and cons of hooptie cars turning autonomous. 
 2. Online Survey - the need for online services in AV.
 3. Market analysis of Hooptie cars in Germany (Buying patterns in customers, financial loss analysis, hooptie cars analysis in Germany)
-4. Object detection and classification for driving senario. 
+4. Object detection and classification for driving scenario. 
 5. Research and brain strom on new features to introduce in hooptie-robo
 6. Simuntaneous Localization and Mapping (SLAM) technique. 
 7. Path planning. 

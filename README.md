@@ -30,4 +30,5 @@ On keeping these key points in mind, our project Hooptie-robo focuses on:
 ## Author 
 
 Sirisha Jotheeswaran Padmasekhar 
-contact: sirishapadmasekhar@gmail.com
+
+Contact: sirishapadmasekhar@gmail.com

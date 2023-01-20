@@ -1,5 +1,8 @@
 # Hooptie-Robo
 
+Do you have a end of life car at your garage or can you find one at your nearby junk shop? We might need you. 
+Introducing Hooptie-robo, a economical and autonomous car for your everyday need. 
+
 
 ## Motivation of the project 
 
@@ -12,6 +15,14 @@ The current challenges in Automobile Industry in the year 2023 includes:
 4. Massive layoff - loss of labor. 
 5. Difficulty to analyse buying pattern in customers. 
 
-On keeping these key points in mind, our project Hooptie-robo will focus on market analysis of Hooptie cars in Germany. Hooptie cars 
+On keeping these key points in mind, our project Hooptie-robo focuses on:
+
+1. 
+2.
+3.
+4.
+5.
+6.
+ 
 
 

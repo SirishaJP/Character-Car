@@ -6,7 +6,7 @@ Introducing Hooptie-robo, a economical and autonomous car for your everyday need
 
 ## Motivation of the project 
 
-The project Hooptie Robo is an independent research based project by students in SRH Berlin University of Applied Sciences to develop an economical autonomous vehicle. 
+The project Hooptie Robo is an independent research based project to develop an economical autonomous vehicle. 
 The current challenges in Automobile Industry in the year 2023 includes:
 
 1. Due to covid-19 the sales in the automobile Industry has reduced and remains stagnant for a long time. 

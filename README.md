@@ -26,6 +26,30 @@ On keeping these key points in mind, our project Hooptie-robo focuses on:
 7. Path planning. 
 8. Pygame to visualize output. 
  
+## TASK 1 
+
+ETL Processes / Visualization for: 
+
+1. Financial Data in Autonomous Industry
+2. Used cars Dataset for purchase  
+3. Customer purchase of Autonomous cars 
+
+## TASK 2 
+
+Time Series / Predicition / Pattern  Analysis: 
+
+1. Financial Loss Time Series Analysis in Autonomous Industry 
+2. Used cars for purchase prediction analysis in Germany 
+3. Customer Buying Pattern Analysis for Autonomous cars
+
+## TASK 3 
+
+Deep Learning:
+
+1. Data Collection of Images 
+2. Data Annotation 
+3. Yolo-v5 for Object Detection and classification. 
+
 
 ## Author 
 
